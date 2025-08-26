@@ -1,6 +1,4 @@
-# 🚀 DevOps Tools Cheatsheet Collection  
-
-![DevOps Cheatsheet](https://imgur.com/tdtHIqB.png)  
+# 🚀 DevOps Tools Cheatsheet Collection   
 
 Welcome to the **DevOps Tools Cheatsheet Collection** – your go-to resource for mastering **DevOps tools and technologies**!  
 
@@ -213,14 +211,14 @@ Automate the provisioning and management of your infrastructure:
 
 ## 🛠️ Author & Community  
 
-This project is crafted with 💡 by **[Harshhaa](https://github.com/NotHarshhaa)**.  
+This project is crafted with 💡 by **[Amir Shaikh](https://github.com/Amyshk786)**.  
 Your feedback is always welcome! Let's build together. 🚀  
 
 📧 **Connect with me:**  
-🔗 **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-🔗 **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-🔗 **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-🔗 **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
+🔗 **GitHub**:  
+🔗 **Blog**: 
+🔗 **Telegram Community**:  
+🔗 **LinkedIn**:  
 
 ---
 
@@ -235,5 +233,3 @@ If this helped you, consider:
 ## 🔥 Take Your DevOps Game to the Next Level with This Cheatsheet Collection! 🚀
 
 ### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
